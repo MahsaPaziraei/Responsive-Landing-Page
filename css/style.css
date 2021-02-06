@@ -1,0 +1,144 @@
+/*header start*/
+#topHeader{
+    border-bottom: 1px solid #ebebeb;
+}
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+nav ul li a {
+    font-size: 1.1em;
+    font-weight: 600;
+}
+/*header end*/
+/*---------------------------- end of header -----------------------------*/
+
+
+/*---------------------------- start of home page -----------------------------*/
+
+/*homePage first section start*/
+.topSection{
+    background-color: #3498db;
+    color: #fff;
+}
+.topSection a{
+    color: #fff;
+    font-weight: 600;
+}
+/*homePage first section end*/
+
+
+
+/*homePage 2nd section start*/
+.qualitiesImage{
+    width: 200px;
+}
+/*homePage 2nd section end*/
+
+/*homePage 3rd section start*/
+.requirementSection{
+background-color: #004d80;
+color: #fff;
+}
+/*homePage 3rd section end*/
+
+
+/*homePage 5th section start*/
+.newsletterSection{
+background-color: #004d80;
+color: #fff;
+}
+.newsletterSection .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.newsletterSection .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background-color: #243c4f;
+    color: #fff;
+}
+/*homePage 5th section end*/
+
+
+/*homePage 7th section start*/
+.clientSection{
+    background-color: #f0f0f0;
+}
+/*homePage 7th section end*/
+
+/*---------------------------- end of home page -----------------------------*/
+
+
+
+
+
+
+/*---------------------------- start of about page --------------------------*/
+
+/*about page first section start*/
+.breadcrumbSection{
+    background-color: #e9ecef;
+}
+/*about page first section end*/
+
+/*---------------------------- end of home page -----------------------------*/
+
+
+
+
+
+
+/*---------------------------- start of contact page --------------------------*/
+.address p{
+font-weight: 600;
+}
+/*---------------------------- end of contact page -----------------------------*/
+
+
+
+
+
+/*---------------------------- start of web design page --------------------------*/
+.bar{
+   color: #fff;
+   font-weight: 600;
+   font-size: 1.1rem; 
+   border-radius: 17px;
+   border: 2px solid slategray;
+}
+/*---------------------------- end of web design page -----------------------------*/
+
+
+
+
+
+
+
+
+
+/*---------------------------- start of footer -----------------------------*/
+/*footer start*/
+.fullFooter{
+    background-color: #2c3e50;
+}
+.topFooter p{
+    color: #fff;
+}
+.topFooter a{
+    color: #fff;
+    font-weight: 600;
+}
+.topFooter h3{
+    color: #fff; 
+}
+
+.bottomFooter{
+    background-color: #0d1114;
+}
+.bottomFooter p{
+    color: #fff;
+}
+/*footer end*/
